@@ -17,7 +17,6 @@ for(i=0;i<maxPossiblility;i++){
 
             if(step == x){
                 possiblePaths++;
-                //console.log('bbbbbbb: ', possiblePaths);
                 next++;
                 step=0;
             }
